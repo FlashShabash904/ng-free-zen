@@ -1,0 +1,26 @@
+/* Reset CSS styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none; 
+  color: inherit; 
+}
+
+body {
+  margin: 0; 
+  padding: 0; 
+  color: black;
+  background-color: white;
+}
+
