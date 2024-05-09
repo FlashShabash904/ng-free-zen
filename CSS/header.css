@@ -8,7 +8,6 @@
 }
 
 .header__logo {
-  border: 4px dashed blue;
   width: 77px;
   height: 30px;
 }
@@ -53,6 +52,6 @@
 }
 
 .header__theme {
-  width: 26;
-  height: 26;
+  width: 26px;
+  height: 26px;
 }

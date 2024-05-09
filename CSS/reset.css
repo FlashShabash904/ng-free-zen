@@ -32,8 +32,8 @@ a {
 
 button {
   color: inherit;
-  font-size: inherit;
-  background-color: transparent;
+  font: inherit;
+  background: none;
   border: none; 
 
 }
