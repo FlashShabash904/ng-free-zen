@@ -1,7 +1,6 @@
 .menu {
-  display: block;
+  display: none;
   background: #FFF;
-  border: 1px dashed red;
 }
 
 .menu.active {
