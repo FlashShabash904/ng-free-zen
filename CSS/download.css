@@ -8,15 +8,14 @@
   gap: 30px;
 }
 
-/* .download__text-block { } */
-
 .download__title {
   font-size: 30px;
   font-weight: 700;
 }
 
-.download__copy {
-  margin-top: 20px;
+.download__text {
+  font-size: 14px;
+  margin-top: 20px; 
 }
 
 .download__links {
@@ -33,14 +32,14 @@
   height: 44px;
 }
 
-.download__image-block {
+.download__imag-block {
   height: 72vw;
   border: 1px solid #aaa;
   border-radius: 20px;
   overflow: hidden;
 }
 
-.download__image-block img {
+.download__imag-block img {
   display: block;
   height: 100%;
   object-fit: cover;
